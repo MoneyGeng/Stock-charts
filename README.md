@@ -1,2 +1,2 @@
 # Stock-charts
-Project 3
+This project aims to create an interactive visualization on the web using Flask API, which can read data from various sources such as csv, json files, or databases. The visualization will include a drop-down menu as an event listener to trigger data changes dynamically. This project is ideal for data analysts, web developers, and anyone who wants to learn how to build interactive visualizations using Flask API and event listeners. 
